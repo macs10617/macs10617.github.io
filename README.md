@@ -1,4 +1,0 @@
-payeer
-======
-
-payeer class

@@ -1,5 +1,0 @@
-AddDefaultCharset utf8
-
-<Files data.conf>
-Deny from all 
-</Files>

@@ -1,0 +1,7 @@
+DefaultLanguage ru
+AddDefaultCharset windows-1251
+php_value default_charset "cp1251"
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php

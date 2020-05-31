@@ -1,4 +1,4 @@
-AddDefaultCharset utf-8
+# .htaccess file from Laravel App
 
 <IfModule mod_rewrite.c>
     <IfModule mod_negotiation.c>
